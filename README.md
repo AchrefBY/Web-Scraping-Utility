@@ -4,17 +4,11 @@ This project demonstrates web scraping using Python, Flask, Selenium, and Beauti
 
 ## Installation
 
-1. Install Flask:
+1. **Flask**: Install using `pip install flask`
 
-- pip install flask
+2. **Selenium**: Install using `pip install selenium`
 
-2. Install Selenium:
-
-- pip install selenium
-
-3. Install BeautifulSoup (bs4):
-
-- pip install bs4
+3. **BeautifulSoup (bs4)**: Install using `pip install bs4`
 
 4. Install Chrome WebDriver (if not already installed):
 
@@ -26,12 +20,9 @@ This project demonstrates web scraping using Python, Flask, Selenium, and Beauti
 1. Run the Flask application:
 
 - python your_app.py
-
 - Replace `your_app.py` with the name of your Python script.
 
-2. Open your web browser and navigate to:
-
-http://localhost:12345
+2. Open your web browser and navigate to: http://localhost:12345
 
 - Replace `12345` with the port number specified in your Flask app.
 
